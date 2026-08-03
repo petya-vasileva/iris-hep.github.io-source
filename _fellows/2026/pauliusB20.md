@@ -4,7 +4,7 @@ pagetype: fellow
 shortname: pbalciunas
 fellow-name: Paulius Balčiūnas
 title: Paulius Balčiūnas - IRIS-HEP Fellow
-active: True
+active: False
 dates:
   start: 2026-02-02
   end: 2026-04-18
@@ -35,4 +35,5 @@ current_status: >
   A placeholder for status updates
 github-username: pauliusb20
 linkedin-profile: https://www.linkedin.com/in/paulius-bal%C4%8Di%C5%ABnas-43159622b/
+funding-source: other
 ---
